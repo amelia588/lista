@@ -1,0 +1,1 @@
+prettier. Mejora como se visualiza el código y ayuda a que sea más ligible.
